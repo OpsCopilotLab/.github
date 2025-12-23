@@ -1,4 +1,4 @@
-# Conscious AI Systems
+# Ops Copilot Lab
 
 > **Human-centric AI systems: reliable, transparent, and ready for production.**
 
